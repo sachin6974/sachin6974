@@ -83,7 +83,7 @@
 <body>
   <!-- Profile Header -->
   <div class="profile-header">
-    <img src="your-avatar.jpg" alt="Avatar">
+    <img src=""C:\Users\DELL\Desktop\sachin.jpg"" alt="Avatar">
     <h1>Sachin Kumar Das</h1>
     <p>Student at Shanto-Mariam University of Creative Technology, CSE & CSIT</p>
     <p>Learning and Growing</p>
